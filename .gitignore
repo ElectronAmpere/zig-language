@@ -1,2 +1,5 @@
 .zig-cache/
 zig-out/
+
+# Cached Files
+.DS_Store
